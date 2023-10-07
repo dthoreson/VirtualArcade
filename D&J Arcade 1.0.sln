@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b6d3a367-4494-0c54-3106-b2d78bf7bfdb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyFlappy-Assembly", "HappyFlappy-Assembly.csproj", "{f3a5af9f-5eb6-58ff-89ea-e80bcd0ae2fd}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b6d3a367-4494-0c54-3106-b2d78bf7bfdb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b6d3a367-4494-0c54-3106-b2d78bf7bfdb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f3a5af9f-5eb6-58ff-89ea-e80bcd0ae2fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f3a5af9f-5eb6-58ff-89ea-e80bcd0ae2fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
